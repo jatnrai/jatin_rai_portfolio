@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 14,
+    "prettier.proseWrap": "always",
+    "prettier.quoteProps": "preserve"
+}
